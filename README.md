@@ -2,7 +2,7 @@
 <div align="center">
 
 [![](https://img.shields.io/badge/Made_with-Python3-red?style=for-the-badge&logo=python)](https://www.python.org/ "Python3")
-[![](https://img.shields.io/badge/Made_with-Tkinter-red?style=for-the-badge&logo=tkinter)](https://www.python.org/ "Tkinter")
+[![](https://img.shields.io/badge/Made_with-Tkinter-blue?style=for-the-badge&logo=tkinter)](https://www.python.org/ "Tkinter")
 
 </div>
 Malayalam and English Keyboard using tkinter-python
